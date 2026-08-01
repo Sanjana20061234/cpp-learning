@@ -1,3 +1,4 @@
+// Day 2: Practiced arrays on August 1
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
