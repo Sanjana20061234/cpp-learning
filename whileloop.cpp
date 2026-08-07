@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int i = 1;
+    while(i<=5){
+        cout << "Sanjana" << i << endl;
+        i =i + i;
+
+    }
+     return 0;
+}
